@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+You can [find the deployed site here](https://otdb-quizz.netlify.app/)
 
 ![preview1](quizz-preview1.png?raw=true)
 ![preview2](quizz-preview1.png?raw=true)
