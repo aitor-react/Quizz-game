@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can [find the deployed site here](https://otdb-quizz.netlify.app/)
 
 ![preview1](quizz-preview1.png?raw=true)
-![preview2](quizz-preview1.png?raw=true)
+![preview2](quizz-preview2.png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
