@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![preview1](quizz-preview1.png?raw=true)
+![preview2](quizz-preview1.png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
